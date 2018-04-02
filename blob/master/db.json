@@ -1,0 +1,28 @@
+{
+  "clies": [
+    {
+      "id": "ICNJ0101",
+      "cleiData": {
+        "manufacturer" : "CISCO",
+        "type" : "Network Device"
+      }
+    },
+    {
+      "id": "ICNJ0102",
+      "cleiData": {
+        "manufacturer" : "NORTEL",
+        "type" : "Storage Device"
+      }
+    },
+    {
+      "id": "ICNJ0101",
+      "cleiData": {
+        "manufacturer" : "Juniper",
+        "type" : "Radio Device"
+      }
+    }
+  ],
+  "profile": {
+    "name": "fakeclei"
+  }
+}
