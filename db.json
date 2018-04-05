@@ -1,28 +1,62 @@
 {
   "clies": [
     {
-      "id": "ICNJ0101",
+      "id": "ABCDEFG2RA",
       "cleiData": {
-        "manufacturer" : "CISCO",
-        "type" : "Network Device"
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
       }
     },
     {
-      "id": "ICNJ0102",
+      "id": "ABCDEFGBRA",
       "cleiData": {
-        "manufacturer" : "NORTEL",
-        "type" : "Storage Device"
-      }
-    },
-    {
-      "id": "ICNJ0101",
-      "cleiData": {
-        "manufacturer" : "Juniper",
-        "type" : "Radio Device"
+        "mfrCode": "SRNW",
+        "noun": "CHASSIS",
+        "desc": "CHASSIS 48 SLOT",
+        "partNumberDrawing": "600-fe00-1hh1 REV X",
+        "CPR": "N700fgz69",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "CISCO SYSTEMS INC",
+        "mfrNamePrevName": "STARENT NETWORKS, CORP.",
+        "FRC": {
+          "FRC": "26877C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Radio Systems",
+          "Level-4": "Cellular Radiot"
+        },
+        "ECN": {
+          "ECN": "882",
+          "Category": "Circuit Equipment",
+          "Short Description": "CDMA2v000 Wireless Equipment",
+          "Full Description": "Includes CDMA2000-1X (1xEV-DO and 1xEV-DV) and CDMA2000-3x equipment for wireless networks. CDMA2000-1X significantly enhances digital CDMA cellular networks in capacity and coverage. CDMA2000-1X supports voice and data rates up to 144 Kb/s on a 1.25 MHz channel and CDMA2000-3X supports voice and packet data services up to 2 Mb/s over a 3.75 MHz channel."
+        }
       }
     }
   ],
   "profile": {
-    "name": "fakeclei"
+    "name": "fakecldata"
   }
 }
