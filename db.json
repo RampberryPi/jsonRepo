@@ -30,15 +30,15 @@
         {
       "id": "XYZ123GBRA",
       "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
+        "mfrCode": "JNPR",
+        "noun": "BRACKET",
         "partNumberDrawing": "24348A",
         "CPR": "N700298369",
         "orderStatus": "CO"
       },
       "eqptDetails": {
-        "mfrName": "TELLABS, INC.",
-        "mfrNamePrevName": "-",
+        "mfrName": "Juniper, INC.",
+        "mfrNamePrevName": "ABC LLC",
         "FRC": {
           "FRC": "567C",
           "Level-1": "Central Office Assets (COA)",
@@ -92,7 +92,7 @@
       },
       "eqptDetails": {
         "mfrName": "TELLABS, INC.",
-        "mfrNamePrevName": "-",
+        "mfrNamePrevName": "SOME INC",
         "FRC": {
           "FRC": "567C",
           "Level-1": "Central Office Assets (COA)",
@@ -119,7 +119,7 @@
       },
       "eqptDetails": {
         "mfrName": "TELLABS, INC.",
-        "mfrNamePrevName": "-",
+        "mfrNamePrevName": "LOCAL LLC",
         "FRC": {
           "FRC": "567C",
           "Level-1": "Central Office Assets (COA)",
