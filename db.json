@@ -1,6 +1,141 @@
 {
   "clies": [
     {
+      "id": "ICCLEI123456",
+      "cleiData": {
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
+      }
+    },
+        {
+      "id": "XYZ123GBRA",
+      "cleiData": {
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
+      }
+    },
+        {
+      "id": "CREW123GBRA",
+      "cleiData": {
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
+      }
+    },
+    {
+      "id": "123HH3456",
+      "cleiData": {
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
+      }
+    },
+    {
+      "id": "ABCDEFGBRA",
+      "cleiData": {
+        "mfrCode": "TSLS",
+        "noun": "MOUNTING",
+        "partNumberDrawing": "24348A",
+        "CPR": "N700298369",
+        "orderStatus": "CO"
+      },
+      "eqptDetails": {
+        "mfrName": "TELLABS, INC.",
+        "mfrNamePrevName": "-",
+        "FRC": {
+          "FRC": "567C",
+          "Level-1": "Central Office Assets (COA)",
+          "Level-2": "Central Office - Transmission",
+          "Level-3": "Electronic Circuit Equipment",
+          "Level-4": "Analog Circuit Equipment"
+        },
+        "ECN": {
+          "ECN": "8250",
+          "Category": "Circuit Equipment",
+          "Short Description": "Program Audio Equipment",
+          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+        }
+      }
+    },
+    {
       "id": "ABCDEFG2RA",
       "cleiData": {
         "mfrCode": "TSLS",
