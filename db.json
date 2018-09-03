@@ -19,7 +19,7 @@
           "Level-3": "Account                      : 2210",
           "Level-4": "CPR List                     : All",
           "Inv-1": "Equipment Catalog Item         : 68-4328-06",
-          "Inv-2": "Part Number / Drawing          : 186237",
+          "Inv-2": "Part Number / Drawing          : 186236",
           "Inv-3": "Inventory Level:               : A",
           "Inv-4": "Equipment Catalog Item - Group : RNM01",
           "Inv-5": "Flag & Point Indicator         : N",
@@ -28,9 +28,9 @@
         },
         "ECN": {
           "ECN": "8250",
-          "Category": "Circuit Equipment",
-          "Short Description": "Program Audio Equipment",
-          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
+          "Category": "LINE INTERFACE",
+          "Short Description": "PACKET SWITCH EQUIPMENT",
+          "Full Description": "EDGE ACCESS ROUTER FOR SERVICE PROVIDER APPLICATIONS. DESIGNED FOR L2 AND L3 METRO ETHERNET AGGREGATION, PLUS SUBSCRIBER-AWARE BROADBAND AGGREGATION. CENTERED AROUND A REDUNDANT PAIR OF ROUTE-SWITCH PROCESSORS (RSPS), ALONG WITH FOUR LINE CARD SLOTS"
         }
       }
     },
