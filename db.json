@@ -1,7 +1,7 @@
 {
   "clies": [
     {
-      "id": "ICCLEI123456",
+      "id": "IPUIBRARAC",
       "cleiData": {
         "mfrCode": "TSLS",
         "noun": "MOUNTING",
@@ -13,11 +13,18 @@
         "mfrName": "TELLABS, INC.",
         "mfrNamePrevName": "-",
         "FRC": {
-          "FRC": "567C",
-          "Level-1": "Central Office Assets (COA)",
-          "Level-2": "Central Office - Transmission",
-          "Level-3": "Electronic Circuit Equipment",
-          "Level-4": "Analog Circuit Equipment"
+          "FRC": "Continuing Property Record : 072DLF",
+          "Level-1": "Field Reporting Code : 477C",
+          "Level-2": "Equipment Category Number : 753",
+          "Level-3": "Account : 2210",
+          "Level-4": "CPR List : All",
+          "Inv-1": "Equipment Catalog Item : 68-4328-06",
+          "Inv-2": "Part Number / Drawing : 186236",
+          "Inv-3": "Inventory Level: : A",
+          "Inv-4": "Equipment Catalog Item - Group : RNM01",
+          "Inv-5": "Flag & Point Indicator : N",
+          "Inv-6": "Use Code : 1",
+          "Inv-7": "Ordering Status : 0"
         },
         "ECN": {
           "ECN": "8250",
@@ -246,3 +253,4 @@
     "name": "fakecldata"
   }
 }
+© 2018 GitHub, Inc.
