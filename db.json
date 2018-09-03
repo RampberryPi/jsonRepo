@@ -14,17 +14,17 @@
         "mfrNamePrevName": "-",
         "FRC": {
           "FRC": "Continuing Property Record\t: 072DLF",
-          "Level-1": "Field Reporting Code\t\t\t\t: 477C",
-          "Level-2": "Equipment Category Number    : 753",
-          "Level-3": "Account                      : 2210",
-          "Level-4": "CPR List                     : All",
-          "Inv-1": "Equipment Catalog Item         : 68-4328-06",
-          "Inv-2": "Part Number / Drawing          : 186236",
-          "Inv-3": "Inventory Level:               : A",
-          "Inv-4": "Equipment Catalog Item - Group : RNM01",
-          "Inv-5": "Flag & Point Indicator         : N",
-          "Inv-6": "Use Code                       : 1",
-          "Inv-7": "Ordering Status                : 0"
+          "Level-1": "Field Reporting Code\t\t\t: 477C",
+          "Level-2": "Equipment Category Number\t: 753",
+          "Level-3": "Account\t\t\t\t: 2210",
+          "Level-4": "CPR List\t\t\t: All",
+          "Inv-1": "Equipment Catalog Item\t: 68-4328-06",
+          "Inv-2": "Part Number / Drawing\t: 186236",
+          "Inv-3": "Inventory Level:\t\t\t: A",
+          "Inv-4": "Equipment Catalog Item - Group\t: RNM01",
+          "Inv-5": "Flag & Point Indicator\t\t: N",
+          "Inv-6": "Use Code\t\t\t: 1",
+          "Inv-7": "Ordering Status\t\t\t: 0"
         },
         "ECN": {
           "ECN": "8250",
