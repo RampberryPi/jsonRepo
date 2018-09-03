@@ -13,8 +13,8 @@
         "mfrName": "TELLABS, INC.",
         "mfrNamePrevName": "-",
         "FRC": {
-          "FRC": "Continuing Property Record       : 072DLF",
-          "Level-1": "Field Reporting Code         : 477C",
+          "FRC": "Continuing Property Record\t: 072DLF",
+          "Level-1": "Field Reporting Code\t: 477C",
           "Level-2": "Equipment Category Number    : 753",
           "Level-3": "Account                      : 2210",
           "Level-4": "CPR List                     : All",
