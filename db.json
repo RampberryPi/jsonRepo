@@ -177,24 +177,30 @@
       }
     },
     {
-      "id": "LONUK004",
+      "id": "NBWKNJ02",
+      "addr1" : "120 Albany St",
+      "addr2" : "New Brunswick NJ 08901",
       "geo": {
-        "lat": 40.688167,
-        "lng": -74.676948
+        "lat": 40.496409,
+        "lng":  -74.444971
       }
     },
     {
-      "id": "LONUK004",
+      "id": "PSWYNJ17",
+      "addr1" : "30 Knightsbridge Rd",
+      "addr2" : "Piscataway NJ 08854",
       "geo": {
-        "lat": 40.589167,
-        "lng": -74.727948
+        "lat": 40.546062, 
+        "lng": -74.481519
       }
     },
     {
-      "id": "LONUK004",
+      "id": "TRENNJ42",
+      "addr1" : "50 W State St",
+      "addr2" : "Trenton, NJ 08608",
       "geo": {
-        "lat": 40.599567,
-        "lng": -74.638278
+        "lat": 40.221134, 
+        "lng": -74.767745
       }
     }
   ],
