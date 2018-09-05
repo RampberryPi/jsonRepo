@@ -168,28 +168,9 @@
   ],
   "CLLIS": [
     {
-      "id": "LONUK001",
-      "geo": {
-        "lat": 51.507351,
-        "lng": -0.129758
-      }
-    },
-    {
-      "id": "LONUK002",
-      "geo": {
-        "lat": 51.507351,
-        "lng": -0.129758
-      }
-    },
-    {
-      "id": "LONUK003",
-      "geo": {
-        "lat": 51.507351,
-        "lng": -0.149758
-      }
-    },
-    {
-      "id": "LONUK004",
+      "id": "BWTPNJAF",
+      "addr1" : "100 Somerset Corp Blvd",
+      "addr2" : "Bridgewater NJ 08807",
       "geo": {
         "lat": 40.587167,
         "lng": -74.625948
