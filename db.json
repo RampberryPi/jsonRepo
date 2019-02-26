@@ -1,210 +1,22 @@
 {
-  "clies": [
+  "chatbotServices": [
     {
-      "id": "IPUIBRARAC",
-      "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
-        "partNumberDrawing": "24348A",
-        "CPR": "N700298369",
-        "orderStatus": "CO"
-      },
-      "eqptDetails": {
-        "mfrName": "CISCO SYSTEMS INC.",
-        "mfrNamePrevName": "MODULAR LINE PARENT CARD, 160G PACKET TRANSPORT OPTIMIZED. SUPPORTS (2) ETHERNET PLUGGABLE (EP) MODULES.",
-        "FRC": {
-          "FRC": "Continuing Property Record\t: 072DLF",
-          "Level-1": "Field Reporting Code\t\t\t: 477C",
-          "Level-2": "Equipment Category Number\t: 753",
-          "Level-3": "Account\t\t\t\t\t\t: 2210",
-          "Level-4": "CPR List\t\t\t\t\t\t: All",
-          "Inv-1": "Eq Catalog Item\t\t\t: 68-4328-06",
-          "Inv-2": "Part Number / Drawing\t: 186236",
-          "Inv-3": "Inventory Level:\t\t\t: A",
-          "Inv-4": "Eq Catalog Item - Group\t: RNM01",
-          "Inv-5": "Flag & Point Indicator\t\t: N",
-          "Inv-6": "Use Code\t: 1",
-          "Inv-7": "Ordering Status\t: 0",
-          "Cmp-1": "IPUIBZE\n\tCisco Systems Inc.\n\tThis product version corrects a bad lot of in-line memory boards found in (CLEI IPUIBRARAC) that caused those boards to fail to boot or crash in the system due to multi-bit error occurrences.",
-          "Cmp-2": "IPUIBYE\n\tCisco Systems Inc.\n\tEnhanced product – P4040 processor, updated firmware to 5.1.0 XR release and added software maintenance update to support hardware with software releases prior to IOS-XR 4.3.1.",
-          "Cmp-3": "IPUIBWY\n\tCisco Systems Inc.\n\tEnhanced product – improvement made to support in service software upgrade (ISSU) by increasing the line card’s memory from the current 8GB to 16GB and updating the ROMMON image to accommodate the increased memory size."
-        },
-        "ECN": {
-          "ECN": "8250",
-          "Category": "LINE INTERFACE",
-          "Short Description": "PACKET SWITCH EQUIPMENT",
-          "Full Description": "EDGE ACCESS ROUTER FOR SERVICE PROVIDER APPLICATIONS. DESIGNED FOR L2 AND L3 METRO ETHERNET AGGREGATION, PLUS SUBSCRIBER-AWARE BROADBAND AGGREGATION. CENTERED AROUND A REDUNDANT PAIR OF ROUTE-SWITCH PROCESSORS (RSPS), ALONG WITH FOUR LINE CARD SLOTS"
-        }
-      }
-    },
-    {
-      "id": "COUIAF5CAB",
-      "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
-        "partNumberDrawing": "24348A",
-        "CPR": "N700298369",
-        "orderStatus": "CO"
-      },
-      "eqptDetails": {
-        "mfrName": "CISCO SYSTEMS INC.",
-        "mfrNamePrevName": "MODULAR LINE PARENT CARD, 160G PACKET TRANSPORT OPTIMIZED. SUPPORTS (2) ETHERNET PLUGGABLE (EP) MODULES.",
-        "FRC": {
-          "FRC": "Continuing Property Record\t: 072DLF",
-          "Level-1": "Field Reporting Code\t\t\t: 477C",
-          "Level-2": "Equipment Category Number\t: 753",
-          "Level-3": "Account\t\t\t\t\t\t: 2210",
-          "Level-4": "CPR List\t\t\t\t\t\t: All",
-          "Inv-1": "Eq Catalog Item\t\t\t: 68-4328-06",
-          "Inv-2": "Part Number / Drawing\t: 186236",
-          "Inv-3": "Inventory Level:\t\t\t: A",
-          "Inv-4": "Eq Catalog Item - Group\t: RNM01",
-          "Inv-5": "Flag & Point Indicator\t\t: N",
-          "Inv-6": "Use Code\t: 1",
-          "Inv-7": "Ordering Status\t: 0",
-          "Cmp-1": "IPUIBZE\n\tCisco Systems Inc.\n\tThis product version corrects a bad lot of in-line memory boards found in (CLEI IPUIBRARAC) that caused those boards to fail to boot or crash in the system due to multi-bit error occurrences.",
-          "Cmp-2": "IPUIBYE\n\tCisco Systems Inc.\n\tEnhanced product – P4040 processor, updated firmware to 5.1.0 XR release and added software maintenance update to support hardware with software releases prior to IOS-XR 4.3.1.",
-          "Cmp-3": "IPUIBWY\n\tCisco Systems Inc.\n\tEnhanced product – improvement made to support in service software upgrade (ISSU) by increasing the line card’s memory from the current 8GB to 16GB and updating the ROMMON image to accommodate the increased memory size."
-        },
-        "ECN": {
-          "ECN": "8250",
-          "Category": "LINE INTERFACE",
-          "Short Description": "PACKET SWITCH EQUIPMENT",
-          "Full Description": "EDGE ACCESS ROUTER FOR SERVICE PROVIDER APPLICATIONS. DESIGNED FOR L2 AND L3 METRO ETHERNET AGGREGATION, PLUS SUBSCRIBER-AWARE BROADBAND AGGREGATION. CENTERED AROUND A REDUNDANT PAIR OF ROUTE-SWITCH PROCESSORS (RSPS), ALONG WITH FOUR LINE CARD SLOTS"
-        }
-      }
-    },
-    {
-      "id": "COUCABTCAB",
-      "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
-        "partNumberDrawing": "24348A",
-        "CPR": "N700298369",
-        "orderStatus": "CO"
-      },
-      "eqptDetails": {
-        "mfrName": "CISCO SYSTEMS INC.",
-        "mfrNamePrevName": "MODULAR LINE PARENT CARD, 160G PACKET TRANSPORT OPTIMIZED. SUPPORTS (2) ETHERNET PLUGGABLE (EP) MODULES.",
-        "FRC": {
-          "FRC": "Continuing Property Record\t: 072DLF",
-          "Level-1": "Field Reporting Code\t\t\t: 477C",
-          "Level-2": "Equipment Category Number\t: 753",
-          "Level-3": "Account\t\t\t\t\t\t: 2210",
-          "Level-4": "CPR List\t\t\t\t\t\t: All",
-          "Inv-1": "Eq Catalog Item\t\t\t: 68-4328-06",
-          "Inv-2": "Part Number / Drawing\t: 186236",
-          "Inv-3": "Inventory Level:\t\t\t: A",
-          "Inv-4": "Eq Catalog Item - Group\t: RNM01",
-          "Inv-5": "Flag & Point Indicator\t\t: N",
-          "Inv-6": "Use Code\t: 1",
-          "Inv-7": "Ordering Status\t: 0",
-          "Cmp-1": "IPUIBZE\n\tCisco Systems Inc.\n\tThis product version corrects a bad lot of in-line memory boards found in (CLEI IPUIBRARAC) that caused those boards to fail to boot or crash in the system due to multi-bit error occurrences.",
-          "Cmp-2": "IPUIBYE\n\tCisco Systems Inc.\n\tEnhanced product – P4040 processor, updated firmware to 5.1.0 XR release and added software maintenance update to support hardware with software releases prior to IOS-XR 4.3.1.",
-          "Cmp-3": "IPUIBWY\n\tCisco Systems Inc.\n\tEnhanced product – improvement made to support in service software upgrade (ISSU) by increasing the line card’s memory from the current 8GB to 16GB and updating the ROMMON image to accommodate the increased memory size."
-        },
-        "ECN": {
-          "ECN": "8250",
-          "Category": "LINE INTERFACE",
-          "Short Description": "PACKET SWITCH EQUIPMENT",
-          "Full Description": "EDGE ACCESS ROUTER FOR SERVICE PROVIDER APPLICATIONS. DESIGNED FOR L2 AND L3 METRO ETHERNET AGGREGATION, PLUS SUBSCRIBER-AWARE BROADBAND AGGREGATION. CENTERED AROUND A REDUNDANT PAIR OF ROUTE-SWITCH PROCESSORS (RSPS), ALONG WITH FOUR LINE CARD SLOTS"
-        }
-      }
-    },
-    {
-      "id": "123HH3456",
-      "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
-        "partNumberDrawing": "24348A",
-        "CPR": "N700298369",
-        "orderStatus": "CO"
-      },
-      "eqptDetails": {
-        "mfrName": "TELLABS, INC.",
-        "mfrNamePrevName": "SOME INC",
-        "FRC": {
-          "FRC": "567C",
-          "Level-1": "Central Office Assets (COA)",
-          "Level-2": "Central Office - Transmission",
-          "Level-3": "Electronic Circuit Equipment",
-          "Level-4": "Analog Circuit Equipment"
-        },
-        "ECN": {
-          "ECN": "8250",
-          "Category": "Circuit Equipment",
-          "Short Description": "Program Audio Equipment",
-          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
-        }
-      }
-    },
-    {
-      "id": "ABCDEFGBRA",
-      "cleiData": {
-        "mfrCode": "TSLS",
-        "noun": "MOUNTING",
-        "partNumberDrawing": "24348A",
-        "CPR": "N700298369",
-        "orderStatus": "CO"
-      },
-      "eqptDetails": {
-        "mfrName": "TELLABS, INC.",
-        "mfrNamePrevName": "LOCAL LLC",
-        "FRC": {
-          "FRC": "567C",
-          "Level-1": "Central Office Assets (COA)",
-          "Level-2": "Central Office - Transmission",
-          "Level-3": "Electronic Circuit Equipment",
-          "Level-4": "Analog Circuit Equipment"
-        },
-        "ECN": {
-          "ECN": "8250",
-          "Category": "Circuit Equipment",
-          "Short Description": "Program Audio Equipment",
-          "Full Description": "Includes program terminals, reversing panels, bridging, branching, and by- pass units, amplifiers, loop, switching and channel equipment. Carrier terminals used for program-audio services and cue services are excluded from this ECN, and included in the ECN assigned to the carrier technology involved."
-        }
-      }
+      "campaignId": 110972393,
+      "chatbotServiceName": "1-800-test-service",
+      "chatbotMessageId": "12345678",
+      "chatbotServiceDesc": "something here",
+      "chatbotCategories": [
+        "News",
+        "Finance"
+      ],
+      "chatbotVersion": "1.2.1",
+      "chatbotServiceIconUri": "http://iconectiv.com/chatbot/images/images.png",
+      "chatbotProviderName": "test provider",
+      "chatbotProviderAddress": "200 Somerset Corporate Blvd,\nBridgewater, NJ",
+      "chatbotSupportEmail": "test@test.com",
+      "chatbotSupportPhone": "73269934000",
+      "chatbotSupportWebsite": "test.com"
     }
   ],
-  "CLLIS": [
-    {
-      "id": "BWTPNJAF",
-      "addr1" : "100 Somerset Corp Blvd",
-      "addr2" : "Bridgewater NJ 08807",
-      "geo": {
-        "lat": 40.587167,
-        "lng": -74.625948
-      }
-    },
-    {
-      "id": "NBWKNJ02",
-      "addr1" : "120 Albany St",
-      "addr2" : "New Brunswick NJ 08901",
-      "geo": {
-        "lat": 40.496409,
-        "lng":  -74.444971
-      }
-    },
-    {
-      "id": "PSWYNJ17",
-      "addr1" : "30 Knightsbridge Rd",
-      "addr2" : "Piscataway NJ 08854",
-      "geo": {
-        "lat": 40.546062, 
-        "lng": -74.481519
-      }
-    },
-    {
-      "id": "TRENNJ42",
-      "addr1" : "50 W State St",
-      "addr2" : "Trenton, NJ 08608",
-      "geo": {
-        "lat": 40.221134, 
-        "lng": -74.767745
-      }
-    }
-  ],
-  "profile": {
-    "name": "fakecldata"
-  }
+  "status": "success"
 }
