@@ -1,10 +1,20 @@
 {
-  "CLIES":[
-    "PKRJKS0101",
-    "PKRJKS0102",
-    "PKRJKS0103",
-    "PKRJKS0104",
-    "PKRJKS0105",
-  ]
-  
+	"chatbotServices": [{
+		"campaignId": 110972393,
+		"chatbotServiceName": "1-800-test-service",
+		"chatbotMessageId": "12345678",
+		"chatbotServiceDesc": "something here",
+		"chatbotCategories": [
+			"News",
+			"Finance"
+		],
+		"chatbotVersion": "1.2.1",
+		"chatbotServiceIconUri": "http://iconectiv.com/chatbot/images/images.png",
+		"chatbotProviderName": "test provider",
+		"chatbotProviderAddress": "200 Somerset Corporate Blvd,\nBridgewater, NJ",
+		"chatbotSupportEmail": "test@test.com",
+		"chatbotSupportPhone": "73269934000",
+		"chatbotSupportWebsite": "test.com"
+	}],
+	"status": "success"
 }
