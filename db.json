@@ -1,6 +1,6 @@
 {
-  "id":"Some darn ID to prevent 500 err",
 	"chatbotServices": [{
+		"id":"Some darn ID to prevent 500 err",
 		"campaignId": 110972393,
 		"chatbotServiceName": "1-800-test-service",
 		"chatbotMessageId": "12345678",
