@@ -1,6 +1,7 @@
 {
   "chatbotServices": [
     {
+      "id": 110972015,
       "campaignId": 110972015,
       "chatbotServiceName": "DemoServiceName-UFA",
       "chatbotServiceId": "financial_advisor@chatcot.com",
@@ -19,6 +20,7 @@
       "chatbotSupportWebsite": "www.test.com"
     },
     {
+      "id": 110973112,
       "campaignId": 110973112,
       "chatbotServiceName": "New Service",
       "chatbotServiceId": "New Service",
@@ -37,6 +39,7 @@
       "chatbotSupportWebsite": "test.com"
     },
     {
+      "id": 110971814,
       "campaignId": 110971814,
       "chatbotServiceName": "DemoServiceName-UFA",
       "chatbotServiceId": "ser",
