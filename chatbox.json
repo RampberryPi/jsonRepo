@@ -1,0 +1,66 @@
+{
+  "chatbotServices": [
+    {
+      "id": 110972015,
+      "campaignId": 110972015,
+      "chatbotServiceName": "DemoServiceName-UFA",
+      "chatbotServiceId": "financial_advisor@chatcot.com",
+      "chatbotMessageId": "12356",
+      "chatbotServiceDesc": "Description for new",
+      "chatbotCategories": [
+        "News",
+        "Finance"
+      ],
+      "chatbotVersion": "1_2_7",
+      "chatbotServiceIconUri": "www.usfc.com/assets/usffinanceLogo.icon",
+      "chatbotProviderName": "USFC name",
+      "chatbotProviderAddress": "307 ",
+      "chatbotSupportEmail": "test@yahoo.com",
+      "chatbotSupportPhone": "7325432744",
+      "chatbotSupportWebsite": "www.test.com"
+    },
+    {
+      "id": 110973112,
+      "campaignId": 110973112,
+      "chatbotServiceName": "New Service",
+      "chatbotServiceId": "New Service",
+      "chatbotMessageId": "654321",
+      "chatbotServiceDesc": "test New Service",
+      "chatbotCategories": [
+        "News",
+        "Finance"
+      ],
+      "chatbotVersion": "1_2_3",
+      "chatbotServiceIconUri": "http://ccpt1.iconectiv.com/images/images.png",
+      "chatbotProviderName": "new service provider",
+      "chatbotProviderAddress": "200 Somerset Corp Blvd,\nBridgewater, NJ",
+      "chatbotSupportEmail": "test@test.com",
+      "chatbotSupportPhone": "7326994000",
+      "chatbotSupportWebsite": "test.com"
+    },
+    {
+      "id": 110971814,
+      "campaignId": 110971814,
+      "chatbotServiceName": "DemoServiceName-UFA",
+      "chatbotServiceId": "ser",
+      "chatbotMessageId": "123",
+      "chatbotServiceDesc": "desc",
+      "chatbotCategories": [
+        "News",
+        "Finance"
+      ],
+      "chatbotVersion": "123",
+      "chatbotServiceIconUri": "uri",
+      "chatbotProviderName": "name",
+      "chatbotProviderAddress": "address",
+      "chatbotSupportEmail": "support@support.com",
+      "chatbotSupportPhone": "123-123-1234",
+      "chatbotSupportWebsite": "www.aa.com"
+    },
+    {
+      "campaignId": 110972664,
+      "chatbotServiceName": "test no icon"
+    }
+  ],
+  "status": "success"
+}
